@@ -84,7 +84,7 @@ If you dont have keys, you can generate them:
 archwayd keys add wallet
 ```
 ### Create validator:
-#Change $ARCHWAY_VALIDATOR_NAME to your validator name.
+Change $ARCHWAY_VALIDATOR_NAME to your validator name.
 ```bash
 archwayd tx staking create-validator \
 --from wallet \
