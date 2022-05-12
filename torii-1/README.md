@@ -23,6 +23,7 @@ echo 'export GO111MODULE=on' >> $HOME/.bash_profile
 echo 'export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin' >> $HOME/.bash_profile && . $HOME/.bash_profile
 go version
 ```
+### Install essentials:
 ```bash
 cd $HOME
 sudo apt update
@@ -77,6 +78,7 @@ sudo systemctl enable archwayd
 sudo systemctl restart archwayd
 journalctl -u archwayd -f
 ```
+### Generate keys
 If you dont have keys, you can generate them:
 ```bash
 archwayd keys add wallet
