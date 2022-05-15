@@ -76,6 +76,7 @@ sudo systemctl restart systemd-journald
 sudo systemctl daemon-reload
 sudo systemctl enable archwayd
 sudo systemctl restart archwayd
+#check logs
 journalctl -u archwayd -f
 ```
 ### Generate keys
