@@ -1,4 +1,4 @@
-# Archway Incentivized Testnet (`torii-1`)
+# Archway Incentivized Testnet (`torii-1`) (ended)
 ### ⚠️ Instructions for Testnet available [here](https://philabs.notion.site/Validator-Setup-Guide-10502472842e4ad8bf7fb7ec68afe07a)
 
 ## Hardware Requirements
